@@ -1,0 +1,6 @@
+{
+  "name": "Nim Game AI",
+  "description": "Interactive game search and theoretical solver for the game of Nim using Bouton's Theorem, Sprague-Grundy theorem, and Minimax search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
